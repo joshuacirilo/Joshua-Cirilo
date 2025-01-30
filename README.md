@@ -29,4 +29,4 @@ Hi! I'm Joshua Cirilo, a passionate system engineer who loves to play soccer, sp
 ## Contact
 - **Email**: jcirilo.alegria@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/joshua-cirilo-8640322ab/
-- **Resume**: 
+- **Resume**: https://github.com/joshuacirilo/Joshua-Cirilo/blob/main/Joshua%20Cirilo%20Curriculum%20ingles.pdf
