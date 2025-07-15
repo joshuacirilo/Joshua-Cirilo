@@ -4,7 +4,7 @@
 Hi! I'm Joshua Cirilo, a passionate system engineer who loves to play soccer, spend time with my family, and program and design websites. Currently, I am studying in Byu Idaho in a bachelor's degree in software development and also I am student at Mariano Galvés in my 3rd year of a system engineer. 
 
 ## Skills
-- **Languages**: Python, JavaScript, C#, Html, Css, Java
+- **Languages**: Python, JavaScript, C#, Html, Css, Java, react
 - **Tools**: Git, Netbeans, VS Code
 
 ## Projects
@@ -29,3 +29,5 @@ Hi! I'm Joshua Cirilo, a passionate system engineer who loves to play soccer, sp
 ## Contact
 - **Email**: jcirilo.alegria@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/joshua-cirilo-8640322ab/
+
+***
